@@ -13,4 +13,5 @@ PRESENTATION DE L’EVENEMENT ITEVENT4GIRLS DE L’ESIGN
 	LISTES DES EXPOSES 
 		La liste suivante contient des liens vers les différents exposés des étudiantes de l’ESIGN :
 
-https://fleurjust.github.io/ITEVENT-for-ESIGN-girls/
+le lien vers le pdf de presentation:
+	https://github.com/fleurjust/ITEVENT-for-ESIGN-girls/blob/main/ITEvent4girlsPresentation.pdf
