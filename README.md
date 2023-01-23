@@ -10,5 +10,5 @@ PRESENTATION DE L’EVENEMENT ITEVENT4GIRLS DE L’ESIGN
 	LISTES DES PROJETS
 		La liste suivante contient des liens vers les différents projets des étudiantes de l’ESIGN :
 
-LISTES DES EXPOSES 
+	LISTES DES EXPOSES 
 		La liste suivante contient des liens vers les différents exposés des étudiantes de l’ESIGN :
